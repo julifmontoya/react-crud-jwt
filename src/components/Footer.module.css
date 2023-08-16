@@ -1,0 +1,17 @@
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+.socialIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+.footerText {
+  text-align: center;
+  color: var(--color-light);
+  padding: 20px;
+  background-color: var(--color-footer);
+}
