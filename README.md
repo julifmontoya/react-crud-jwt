@@ -1,6 +1,7 @@
 
 ## 1. Project Goals
 The purpose of this project is to create a Django Rest Framework API 
+Link Api:  
 
 ## 2. Technologies I've used
 - React JS
