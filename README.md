@@ -2,7 +2,7 @@
 ## 1. Project Goals
 The purpose of this project is to create an app that cosume Django Rest Framework API 
 
-Link Api:  
+Link Api: https://github.com/julifmontoya/drf-crud-jwt
 
 ## 2. Technologies I've used
 - React JS
