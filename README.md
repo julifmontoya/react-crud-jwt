@@ -6,8 +6,8 @@ Link Api: https://github.com/julifmontoya/drf-crud-jwt
 
 ## 2. Technologies I've used
 - React JS
-- React Bootstrap
 - React Router
+- CSS
 
 ## 3. User stories
 ###  3.1 Home
